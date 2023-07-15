@@ -1,21 +1,8 @@
-@extends('template/main') 
-
+@extends('template/main')
 
 @section('content')
-<div class="container">
-    <div class="jumbotron text-center">
-        <h1 class="display-4">Selamat Datang di Toko Baju Ourstyle!</h1>
-        <p class="lead">Temukan gaya terbaru dan tren fashion kami.</p>
-        <hr class="my-4">
-        <p>Terima kasih telah mengunjungi toko baju kami. Dapatkan koleksi pakaian terbaik kami dengan harga yang menarik.</p>
-    </div>
-</div>
-
-@endsection
-
-@section('content2')
-  <div class="container">
-        <h1 class="text-center">Produk Terbaru Kami</h1>
+    <div class="container">
+        <h1 class="text-center">Produk - Produk Kami</h1>
         <div class="row">
             @for ($i = 1; $i <= 3; $i++)
                 @php

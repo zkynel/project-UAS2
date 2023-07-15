@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NZA-Store</title>
+  <title>Ourstyle Store</title>
 
   <!-- Google Font: Source Sans Pro -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
@@ -158,7 +158,7 @@
     <!-- Brand Logo -->
     <a href="../../index3.html" class="brand-link">
       <img src="/assets/dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-      <span class="brand-text font-weight-light">Admin NZA-Store</span>
+      <span class="brand-text font-weight-light">Admin Ourstyle</span>
     </a>
 
     <!-- Sidebar -->
@@ -169,7 +169,7 @@
           <img src="/assets/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">Admin Nasa</a>
+          <a href="#" class="d-block">Admin</a>
         </div>
       </div>
 
@@ -208,13 +208,7 @@
               <li class="nav-item">
                 <a href="/toko/customers" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Pelanggan</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="../../index3.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Dashboard v3</p>
+                  <p>Customers</p>
                 </a>
               </li>
             </ul>
@@ -233,12 +227,12 @@
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-6">
-            <h1>Blank Page</h1>
+            <h1>Dashboard Ourstyle</h1>
           </div>
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
               <li class="breadcrumb-item"><a href="#">Home</a></li>
-              <li class="breadcrumb-item active">Blank Page</li>
+              <li class="breadcrumb-item active">Dashboard Ourstyle</li>
             </ol>
           </div>
         </div>
